@@ -4,7 +4,8 @@ using System.Text;
 
 namespace LogicadeNegocio.EntidadesNegocio
 {
-    class Region
+    public class Region
     {
+        public string _nombreContinente { get; set; }
     }
 }

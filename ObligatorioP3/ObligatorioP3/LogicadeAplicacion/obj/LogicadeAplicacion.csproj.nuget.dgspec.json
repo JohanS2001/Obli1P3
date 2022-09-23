@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/estebannecuse/Desktop/ObligatorioP3/ObligatorioP3/LogicadeAplicacion/LogicadeAplicacion.csproj": {}
+    "C:\\Users\\equipo\\Documents\\GitHub\\Obligatorio\\Obli1P3\\ObligatorioP3\\ObligatorioP3\\LogicadeAplicacion\\LogicadeAplicacion.csproj": {}
   },
   "projects": {
-    "/Users/estebannecuse/Desktop/ObligatorioP3/ObligatorioP3/LogicadeAplicacion/LogicadeAplicacion.csproj": {
+    "C:\\Users\\equipo\\Documents\\GitHub\\Obligatorio\\Obli1P3\\ObligatorioP3\\ObligatorioP3\\LogicadeAplicacion\\LogicadeAplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/estebannecuse/Desktop/ObligatorioP3/ObligatorioP3/LogicadeAplicacion/LogicadeAplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\equipo\\Documents\\GitHub\\Obligatorio\\Obli1P3\\ObligatorioP3\\ObligatorioP3\\LogicadeAplicacion\\LogicadeAplicacion.csproj",
         "projectName": "LogicadeAplicacion",
-        "projectPath": "/Users/estebannecuse/Desktop/ObligatorioP3/ObligatorioP3/LogicadeAplicacion/LogicadeAplicacion.csproj",
-        "packagesPath": "/Users/estebannecuse/.nuget/packages/",
-        "outputPath": "/Users/estebannecuse/Desktop/ObligatorioP3/ObligatorioP3/LogicadeAplicacion/obj/",
+        "projectPath": "C:\\Users\\equipo\\Documents\\GitHub\\Obligatorio\\Obli1P3\\ObligatorioP3\\ObligatorioP3\\LogicadeAplicacion\\LogicadeAplicacion.csproj",
+        "packagesPath": "C:\\Users\\equipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\equipo\\Documents\\GitHub\\Obligatorio\\Obli1P3\\ObligatorioP3\\ObligatorioP3\\LogicadeAplicacion\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/estebannecuse/.config/NuGet/NuGet.Config"
+          "C:\\Users\\equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
